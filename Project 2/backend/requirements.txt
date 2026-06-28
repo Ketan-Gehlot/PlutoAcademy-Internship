@@ -1,0 +1,8 @@
+fastapi>=0.109.0
+uvicorn
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+python-multipart
